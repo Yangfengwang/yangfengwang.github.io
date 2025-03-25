@@ -6,10 +6,16 @@ redirect_from:
   - /about.html
 ---
 
-Master's Student at Huazhong University of Science and Technology
 
-Wang Yangfeng obtained a Bachelor of Engineering degree in Mechanical Engineering from China Agricultural University in 2020. During his undergraduate studies, his research focused on food control, intelligent sensing, and machine vision. Subsequently, he was recommended for admission without taking the entrance examination to the School of Mechanical Science and Engineering at Huazhong University of Science and Technology, where he studied under the supervision of Dr. Yu Wenyong. His current research work mainly focuses on machine vision, data fusion, and industrial diagnosis. He has published seven academic papers with a cumulative impact factor of 47.4 and has been cited a total of 29 times. He has received the Innovation and Entrepreneurship Scholarship, Academic Scholarship, the Special Prize in the Beijing Engineering Training Competition, and the National Third Prize in the China Agricultural Robot Competition.
+_Master's Student at Huazhong University of Science and Technology_
 
+Wang Yangfeng obtained a Bachelor of Engineering degree in Mechanical Engineering from China Agricultural University (CAU) in 2020. During his undergraduate studies, his research focused on food control, intelligent sensing, and machine vision. Subsequently, he was recommended for admission without taking the entrance examination to the School of Mechanical Science and Engineering at Huazhong University of Science and Technology (HUST), where he studied under the supervision of Dr. Yu Wenyong.
+
+His current research work focuses on machine vision, data fusion and industrial diagnostics. He has published **7** academic papers with a cumulative impact factor of **47.4** and **29** citations. He has been awarded the Innovation and Entrepreneurship Scholarship, Academic Scholarship, Special Prize of Beijing Engineering Training Competition, and the Third Prize of China Agricultural Robotics Competition.
+
+His current research interests include:
+* **Machine vision**: Research on Multi-task and Comparative Learning
+* **Multimodal information fusion**: Algorithms and Systems
 
 A data-driven personal website
 ======
