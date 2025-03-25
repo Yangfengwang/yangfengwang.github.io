@@ -27,7 +27,7 @@ Publications
 
 * **[_COMPAG '23_ ]** **Wang, Y.**, Jin, X., Zheng, J., Zhang, X., Wang, X., He, X., & Polovka, M. (2023). An energy-efficient classification system for peach ripeness using YOLOv4 and flexible piezoelectric sensor. Computers and Electronics in Agriculture, 210, 107909. http://doi.org/https://doi.org/10.1016/j.compag.2023.107909
 * **[_Foods '23_ ]** **Wang, Y.**, Jin, X., Yang, L., He, X., & Wang, X. (2023). Predictive Modeling Analysis for the Quality Indicators of Matsutake Mushrooms in Different Transport Environments Foods 12(18), 3372. https://doi.org/10.3390/foods12183372
-* **[_COMPAG '24_ ]** Huang, W.1^, **Wang, Y.1^**, Xia, J., Jin, X., Zhu, H., Glamuzina, B., Yu, W., & Zhang, X. (2024). Non-destructive classification of sturgeon stress using cross-modal data fusion and multi-input deep learning models. Computers and Electronics in Agriculture, 220, 108903. http://doi.org/https://doi.org/10.1016/j.compag.2024.108903
+* **[_COMPAG '24_ ]** Huang, W.<sup>1</sup>, **Wang, Y.1<sup>1</sup>**, Xia, J., Jin, X., Zhu, H., Glamuzina, B., Yu, W., & Zhang, X. (2024). Non-destructive classification of sturgeon stress using cross-modal data fusion and multi-input deep learning models. Computers and Electronics in Agriculture, 220, 108903. http://doi.org/https://doi.org/10.1016/j.compag.2024.108903
 
 **_Other Author_**
 
