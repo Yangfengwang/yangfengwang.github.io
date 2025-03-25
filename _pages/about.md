@@ -11,7 +11,7 @@ _Master's Student at Huazhong University of Science and Technology_
 
 Yangfeng Wang obtained a Bachelor of Engineering degree in Mechanical Engineering from China Agricultural University (CAU) in 2024. During his undergraduate studies, his research focused on food control, intelligent sensing, and machine vision. Subsequently, he was recommended for admission to the School of Mechanical Science and Engineering at Huazhong University of Science and Technology (HUST) in 2024, where he studied under the supervision of Dr. Yu Wenyong.
 
-His current research work focuses on machine vision, data fusion and industrial diagnostics. He has published **7** academic papers with a cumulative impact factor of **47.4** and a H-index of **3**. He has been awarded the Innovation and Entrepreneurship Scholarship, Academic Scholarship, Special Prize of Beijing Engineering Training Competition, and the Third Prize of China Agricultural Robotics Competition.
+His current research work focuses on machine vision, data fusion and industrial diagnostics. He has published **7** academic papers with a cumulative impact factor of **47.4** and an H-index of **3**. He has been awarded the Innovation and Entrepreneurship Scholarship, Academic Scholarship, Special Prize of Beijing Engineering Training Competition, and the Third Prize of China Agricultural Robotics Competition.
 
 His current research interests include:
 * **Machine vision**: Research on Multi-task and Comparative Learning
