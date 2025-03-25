@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yangfeng Wang: true
+title: "Yangfeng Wang"
 redirect_from: 
   - /about/
   - /about.html
