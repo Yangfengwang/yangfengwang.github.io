@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "HUSTer and CAUer"
   location         : "WuHan, China"
-  employer         : "Huazhong University of Science and Technology"
-  uri              : # URL
+  employer         : "HUST"
+  uri              : "https://yangfengwang.github.io/"
   email            : "yangfengwang@hust.edu.cn" 
 
   # Academic websites
