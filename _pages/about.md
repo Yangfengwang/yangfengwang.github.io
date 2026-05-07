@@ -27,7 +27,7 @@ Publications
 
 **_First/co-first Author_**
 
-* **[_EAAI '26_ ]** **Wang, Y.**, Yu, C., Wang, Yin., Shi, H. & Yu, W. (2026). Multi-dimensional logic anomaly inspection method for assembly components based on virtual domain contrastive pre-training. Engineering Applications of Artificial Intelligence (IF=8.0). https://doi.org/10.​1016/​j.​engappai.​2026.​114431
+* **[_EAAI '26_ ]** **Wang, Y.**, Yu, C., Wang, Yin., Shi, H. & Yu, W. (2026). Multi-dimensional logic anomaly inspection method for assembly components based on virtual domain contrastive pre-training. Engineering Applications of Artificial Intelligence (IF=8.0). https://doi.org/10.1016/j.engappai.2026.114431
 * **[_ARTIF INTELL REV '26_ ]** **Wang, Y.<sup>1</sup>**, Yu, W.<sup>1</sup>, Yu, C., Shi, H., & Li, W. (2026). A survey on multimodal learning for industrial diagnostics: a data dimensionality perspective. Artificial Intelligence Review (IF=13.9). http://doi.org/10.1007/s10462-026-11527-4
 * **[_ESWA '26_ ]** **Wang, Y.**, Jin, X., Huang, W., Wang, X., & Yu, W. (2026). FDFR-Net: A fruit ripeness classification method using multimodal learning technique. Expert Systems with Applications (IF=7.5). https://doi.org/10.1016/j.eswa.2025.130126
 * **[_COMPAG '26_ ]** Huang, W.<sup>1</sup>, **Wang, Y.<sup>1</sup>**, Glamuzina, B., Yu, W., & Zhang, X, Glamuzina, B., Yu, W., & Zhang, X. (2026). Non-destructive evaluation of sturgeon comfort and health based on YOLOv5s and flexible multi-source sensing in waterless cryogenic environments. Computers and Electronics in Agriculture (IF=8.9). https://doi.org/10.1016/j.compag.2026.111550
