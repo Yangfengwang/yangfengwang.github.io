@@ -46,7 +46,7 @@ Publications
   **Quick Review:** Traditional fruit sorting systems often face a trade-off between energy consumption and classification accuracy. This study introduces an energy-efficient, two-stage classification system integrating visual and tactile sensing modalities. By utilizing YOLOv4 for preliminary screening and a flexible pressure sensor for refined tactile evaluation, the proposed method achieves highly accurate peach ripeness grading with low operational costs and minimal power consumption. 
 
 * **[_Foods '23_ ]** **Wang, Y.**, Jin, X., Yang, L., He, X., & Wang, X. (2023). Predictive Modeling Analysis for the Quality Indicators of Matsutake Mushrooms in Different Transport Environments. **_Foods_ (IF=5.1)**. https://doi.org/10.3390/foods12183372 \
-  **Quick Review:** The agricultural logistics sector lacks accurate predictive models for Matsutake mushroom quality degradation during transport. This research investigated dynamic changes in critical indicators (e.g., hardness, color, odor, pH) to develop robust predictive models. An optimized Artificial Neural Network (ANN) model was established with an R^2 of 0.988, providing reliable, data-driven guidance for optimizing preservation and transport strategies. 
+  **Quick Review:** The agricultural logistics sector lacks accurate predictive models for Matsutake mushroom quality degradation during transport. This research investigated dynamic changes in critical indicators (e.g., hardness, color, odor, pH) to develop robust predictive models. An optimized Artificial Neural Network (ANN) model was established with an R<sup>2</sup> of 0.988, providing reliable, data-driven guidance for optimizing preservation and transport strategies. 
 
 **_Other Author_**
 
