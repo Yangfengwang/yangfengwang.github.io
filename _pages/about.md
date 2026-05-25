@@ -15,10 +15,12 @@ Yangfeng Wang obtained a Bachelor of Engineering degree in Mechanical Engineerin
 
 His current research work focuses on machine vision, data fusion and industrial diagnostics. He has published **11** academic papers with a cumulative impact factor of **90.1** and an H-index of **5**. He has been awarded the Innovation and Entrepreneurship Scholarship, Academic Scholarship, Special Prize of Beijing Engineering Training Competition, and the Third Prize of China Agricultural Robotics Competition.
 
-His current research interests include:
-* **Machine vision**: Research on Multi-task and Comparative Learning
-* **Multimodal information fusion**: Algorithms and Systems
+His research direction during Master's Studies:
+* **Machine Vision Driven Industrial Intelligent Diagnosis Algorithm**: Research focuses on deep learning algorithm design for industrial scenarios. It targets key bottlenecks such as expensive data collection, complex lighting interference, and accurate diagnosis amid cluttered texture backgrounds.
+* **Multimodal Learning for Industrial System Applications**: Covering multimodal system architecture design, algorithm integration, and industrial deployment to enable integrated perception, decision-making, and control in manufacturing environments.
 
+His current Research Interests:
+* **Intelligent Perception System Integrated with Multi-source Information**: Focusing on the multi-source intelligent perception system, undertaking full-process development covering flexible sensor fabrication, hardware platform construction, algorithm design, and system deployment.
 
 
 
