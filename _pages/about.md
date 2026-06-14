@@ -57,3 +57,4 @@ Publications
 * **[_Mater. Today Sustainability '24_ ]** Huang, W., Xia, J., **Wang, Y**., Jin, X., Zhu, H., & Zhang, X. (2024). Flexible multimode sensors based on hierarchical microstructures enable non-destructive grading of fruits in cold chain logistics. **_Materials Today Sustainability_ (IF=7.9)**. https://doi.org/10.1016/j.mtsust.2024.100691
 * **[_J. Food Process Eng '24_ ]** Huang, W., **Wang, Y**., Wang, Y., & Zhang, X. (2024). Non-destructive grading technique for mangoes using a flexible impedance sensing system and YOLOv5s_CBAM. **_Journal of Food Process Engineering_ (IF=2.9)**. https://doi.org/10.1111/jfpe.14631
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyangfengwang.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
